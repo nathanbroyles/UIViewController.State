@@ -1,6 +1,6 @@
-# UIViewController.state
+# UIViewController.State
 
-UIViewController.state is a stateful approach to updating user interfaces. 
+UIViewController.State is a... stateful approach to updating user interfaces. 
 
 ## var state: State = .new
 
@@ -67,4 +67,4 @@ If I want to reset my view, all I need to do is set the `state` property again.
 ```
 My `didSet` will run and my view will be reset.
 
-🤙
+😎
